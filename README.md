@@ -21,4 +21,8 @@ Option two: The seed contains a sample AngularJS application and is preconfigure
 New project without the angular-seed commit history then you can do
 ```
 $ git clone --depth=1 https://github.com/angular/angular-seed.git <your-project-name>
+$ cd <your-project-name>
+$ npm install
+$ npm start
 ```
+Now browse to the app at http://localhost:8000/app/index.html
