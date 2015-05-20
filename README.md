@@ -11,6 +11,8 @@ https://github.com/angular/angular-seed
 
 https://www.npmjs.com/package/angular
 
+http://ngcordova.com/
+
 ## Install
 
 Install
