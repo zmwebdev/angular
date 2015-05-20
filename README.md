@@ -13,6 +13,8 @@ https://www.npmjs.com/package/angular
 
 http://ngcordova.com/
 
+http://latentflip.com/imperative-vs-declarative/
+
 [Book: AngularJS: Up and Running](http://shop.oreilly.com/product/0636920033486.do#PowerReview)
 
 ## Install
@@ -33,6 +35,8 @@ Or require('angular') from your code.
 
 ###bower
 ```
+(sudo npm -g install bower)
+
 bower install angular
 ```
 Then add a ```<script>``` to your index.html:
