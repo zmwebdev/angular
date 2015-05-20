@@ -13,6 +13,8 @@ https://www.npmjs.com/package/angular
 
 http://ngcordova.com/
 
+[Book: AngularJS: Up and Running](http://shop.oreilly.com/product/0636920033486.do#PowerReview)
+
 ## Install
 
 Install
