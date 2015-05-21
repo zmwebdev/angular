@@ -21,7 +21,9 @@ http://karma-runner.github.io/
 
 http://plnkr.co/
 
-http://angular.github.io/protractor/#/
+http://angular.github.io/protractor/
+
+https://developers.google.com/speed/libraries/
 
 [Book: AngularJS: Up and Running](http://shop.oreilly.com/product/0636920033486.do#PowerReview)
 
