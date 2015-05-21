@@ -5,6 +5,8 @@ https://docs.angularjs.org
 
 https://docs.angularjs.org/misc/started
 
+https://github.com/shyamseshadri/angularjs-up-and-running
+
 http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
 
 https://www.npmjs.com/package/angular
