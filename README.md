@@ -29,6 +29,8 @@ https://developers.google.com/speed/libraries/
 
 [Book: AngularJS: Up and Running](http://shop.oreilly.com/product/0636920033486.do#PowerReview)
 
+http://www.hongkiat.com/blog/angularjs-tools/
+
 ## Install
 
 Install
