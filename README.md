@@ -19,6 +19,10 @@ http://latentflip.com/imperative-vs-declarative/
 
 http://karma-runner.github.io/
 
+http://plnkr.co/
+
+http://angular.github.io/protractor/#/
+
 [Book: AngularJS: Up and Running](http://shop.oreilly.com/product/0636920033486.do#PowerReview)
 
 ## Install
