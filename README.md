@@ -36,7 +36,19 @@ http://www.hongkiat.com/blog/angularjs-tools/
 Install
 You can install this package either with npm or with bower.
 
+###Yeoman
 http://yeoman.io/
+
+```
+install lastest npm
+$ sudo npm install -g n
+$ sudo n stable
+
+install yeoman, ...
+$ npm install -g yo bower grunt-cli gulp
+
+$ yo
+```
 
 ###npm
 ```
