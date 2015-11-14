@@ -36,6 +36,8 @@ http://www.hongkiat.com/blog/angularjs-tools/
 Install
 You can install this package either with npm or with bower.
 
+http://yeoman.io/
+
 ###npm
 ```
 npm install angular
