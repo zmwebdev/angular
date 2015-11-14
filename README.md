@@ -39,6 +39,8 @@ You can install this package either with npm or with bower.
 ###Yeoman
 http://yeoman.io/
 
+https://github.com/yeoman/generator-angular
+
 ```
 install lastest npm
 $ sudo npm install -g n
@@ -46,6 +48,9 @@ $ sudo n stable
 
 install yeoman, ...
 $ npm install -g grunt-cli bower yo generator-karma generator-angular
+```
+```
+$ yo angular
 ```
 
 ###npm
