@@ -45,9 +45,7 @@ $ sudo npm install -g n
 $ sudo n stable
 
 install yeoman, ...
-$ npm install -g yo bower grunt-cli gulp
-
-$ yo
+$ npm install -g grunt-cli bower yo generator-karma generator-angular
 ```
 
 ###npm
