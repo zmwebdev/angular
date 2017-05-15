@@ -1,4 +1,8 @@
 # angular
+
+# USE ANGULAR LAST VERSION!!!: https://angular.io
+
+OLD
 Angular framework: https://angularjs.org/
 
 https://docs.angularjs.org
