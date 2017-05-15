@@ -2,7 +2,8 @@
 
 # USE ANGULAR LAST VERSION!!!: https://angular.io
 
-OLD
+THE BELOW TUTORIAL IS OLD
+
 Angular framework: https://angularjs.org/
 
 https://docs.angularjs.org
