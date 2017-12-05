@@ -1,6 +1,7 @@
 ## Angular
 
-https://angular.io/guide/quickstart
+- https://angular.io/guide/quickstart
+- https://medium.com/@angularminds/comparison-between-angular-1-vs-angular-2-vs-angular-4-62fe79c379e3
 
 ## Instalazioa
 
